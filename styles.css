@@ -1,27 +1,5 @@
-*{
-    font-family: 'Courier New', Courier, monospace;
-}
-
-h1{
-    text-align: center;
-}
-h2:hover{
-    color: yellow;
-    cursor: pointer;
-}
-
-main{
-    background-color: lightcoral;
-    margin: 20px;
-    padding-left: 30px;
-}
-.blue-text{
-    background-color: blue;
-    color: white;
-}
-.text-center {
-    text-align: center;
-}
-#email{
-    font-size: 30px;
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: red;
 }
